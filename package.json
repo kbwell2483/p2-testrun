@@ -1,0 +1,29 @@
+{
+  "name": "p2-testrun",
+  "version": "1.0.0",
+  "engines": {
+    "node": "v14.5.0"
+  },
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbwell2483/p2-testrun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbwell2483/p2-testrun/issues"
+  },
+  "homepage": "https://github.com/kbwell2483/p2-testrun#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.10.0"
+  }
+}
